@@ -1,0 +1,7 @@
+1.- instalar Netbeans
+2.-Abres NETBEANS
+3.-Seleccionas "abrir proyecto"
+4.-Seleccionas la carpeta CompiladoresGOOD
+5.-Una vez abierto, compila la carpeta
+6.-El sistema abrira una ventana en Java para poder interactuar
+7.-Realizar cualquier ejercicio

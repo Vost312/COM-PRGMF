@@ -1,0 +1,16 @@
+en la carpeta e programas vienen 3 archivos con el mismo nombre o parecidos
+uno de los archivos es para el programa donde fueron creados(Devian C+++).
+El segundo es el archivo ejecutable que se abre al darle dos veces click
+El tercero es un bloc de notas donde esta el codico tal cual esta en el programador (devian C++)
+
+el archivo llamado "texto" es el archivo a leer, se puede modificar su contenido y los 
+una vez guardado los programas tambien leen la modificacion.
+ 
+los archivos llamados "contador" son los contadores de carracteres
+los archivos llamados "contador2" son los contador de cuantos del mismo caracter hay 
+Los archivos llamados "prueva" son el contador de palabras eligiendo el caracter.
+los archivos llamados "salto_ult" son un programa en el cual muestra los ultimos caracteres 
+despues de un salto de linea 
+
+devido a problemas tecnicos de mi PC T.T
+no pude poner audio y editar el video se volvio demasiado pesado 
