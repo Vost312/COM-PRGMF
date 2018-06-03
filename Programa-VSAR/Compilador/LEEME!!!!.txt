@@ -1,0 +1,26 @@
+Archivos:
+
+RUN.bat corre el programa del compilado de python el que enseñamos el la clase;
+ply.zip contiene la herramienta de ply;
+ply_build es el Script para crear el .o .S .exe;
+
+
+requisitos:
+Tenes que instalar el codeblocks y usar una carpeta que esta en el c:\Program Files\codeblock\MinGW
+Tener python como variable de entorno comporbacion escribir en el cmd: python -V
+tiene que tirara python 2.7.x
+
+tener instalado ply en la carpeta c:\python27\Lib\ply
+si no, descomprimis el ply.zip en "c:\python27\Lib\ply "
+
+
+
+pasos:
+
+1) 	descomprimir el MinGW en C:\Archivos de Programas\codeblocks\MinGW y registrar como Variable de entorno
+	en el path de windws;
+	comprovacion escribir en cmd: g++ -v
+	tira la version del compilador
+	
+2)      si todo va despues escribis en el cmd cd "la direccion donde tenes descompriminido los archivos"
+	y luego escribis en el cmd python com.py y esto de va desplegar el programa
