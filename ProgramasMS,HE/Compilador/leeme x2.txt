@@ -1,0 +1,2 @@
+los comentarios que se hicieron se muestran en la carpeta COM dentro de c_lexer, parcer.py y construct.py bueno tambien
+en com.py pero eso es solo el menu.

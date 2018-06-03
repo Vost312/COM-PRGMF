@@ -1,0 +1,26 @@
+como hacer funcionar el compilador 
+
+requerimientos:
+Dev C++ cualquier ver.
+python cualquier ver.
+
+pasos: 
+1.-una vez bajados los instaladores de ambos archivos tendremos que proceder a instarlos 
+	Dev C++ se instala normal python una vez abra el instalador en la primera o segunda pantalla deberemos buscar
+	una opcion especial (normalmente se encuentra en la parte baja de el menu) que diga "agregar python al PATH"
+	la habilitamos y continuamos la instalacion de manera normal.
+
+2.-ya instalados procederemos a poner en l barra de busqueda de windows panel de control y accederemos una vez en el panel
+	buscaremos el apartado sistema y en sistema buscaremos la opcion ver conf. avanzada del sistema, accederemos y se desplegara
+	una nueva pestaña en esa pestaña seleccionaremos la opcion de hasta abajo (variables de entorno).
+
+3.-ya dentro de la seccion de var de entorno deveremos comprobar que python esta en el path asi que en variables de usuario
+	deveria haber una parte que diga path y tenga la direccion de la carpeta python algo asi "C:\Users\*tu usuario*\AppData\Local\Programs\Python\Python36\Scripts\"
+	si la direccion no se encuentra desisntalar python y reinstalar poner atencion al punto #1 si esta correcto ahora 
+	iremos a variables de sistema buscaremos la opcion de path y daremos modificar una vez adentro seleccionaremos
+	nueva y luego examinar una vez que se abra la ventana buscaremos la carpeta donde se encuentre instalado Dev C++
+	y luego entraremos a MinGW64 y luego a la carpeta bin y daremos aceptar debe quedar asi maso menos "C:\Program Files (x86)\Dev-Cpp\MinGW64\bin"
+	daremos guadar y luego saldremos si todo esta correcto ya podremos usar el compilador
+
+4.-el compilador usa archivos creados en C/C++ por lo que es necesario agregar el .cpp al final del nombre del archivo para
+	que funcione. (el compilador trae un ejemplo a.cpp)
